@@ -12,11 +12,11 @@
 <h3>Programming Languages</h3>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="img/Java.png" alt="java" width="20" height="20"/> 
+    <img src="img/Java.png" alt="java" width="30" height="30"/> 
 </a> 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
 </a> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
