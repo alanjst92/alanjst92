@@ -68,44 +68,44 @@
 <h3>Mobile App Development</h3>
 
 <a href="https://dev.to/alanjst" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
+    <img src="img/Android.png" alt="android" width="30" height="30"/> 
 </a> 
 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> 
+    <img src="img/Dart.png" alt="dart" width="30" height="30"/> 
 </a> 
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> 
+    <img src="img/Flutter.png" alt="flutter" width="30" height="30"/> 
 </a> 
 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> 
+    <img src="img/Kotlin-lang.png" alt="kotlin" width="30" height="30"/> 
 </a> 
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> 
+    <img src="img/React-native.png" alt="reactnative" width="30" height="30"/> 
 </a> 
 
 <h3>Database</h3>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> 
+    <img src="img/sql-server.png" alt="mssql" width="30" height="30"/> 
 </a> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
+    <img src="img/My-sql.png" alt="mysql" width="30" height="30"/> 
 </a> 
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
+    <img src="img/Postgresql.png" alt="postgresql" width="30" height="30"/> 
 </a> 
 
 
 <h3>Other</h3>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">    
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+    <img src="img/Git.png" alt="git" width="30" height="30"/> 
 </a>
 
 </p>
