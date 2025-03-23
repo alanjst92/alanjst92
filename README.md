@@ -11,7 +11,7 @@
 
 <h3>Programming Languages</h3>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<a href="https://github.com/alanjst92?tab=repositories&q=&type=&language=java&sort=" target="_blank" rel="noreferrer"> 
     <img src="img/Java.png" alt="java" width="30" height="30"/> 
 </a> 
 
